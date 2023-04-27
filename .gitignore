@@ -1,0 +1,7 @@
+variables.tf
+terraform.tfstate.backup
+.terraform
+.vscode
+.idea
+key.pem
+terraform.tfstate
